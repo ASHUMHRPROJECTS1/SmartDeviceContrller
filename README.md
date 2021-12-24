@@ -30,9 +30,6 @@ the steps of the project to get a positive result.
 > \"out-of-charge PCB color\" which means you will pay only 2 USD for
 > any PCB color you choose.
 
-![](a9f2e0decaf6421fa9dae9474a1fd5e3/media/image4.png)
-
-![](a9f2e0decaf6421fa9dae9474a1fd5e3/media/image5.png)
 
 > Related Download Files As you can see in the pictures above the PCB is
 > very well manufactured and I've got the same PCB design that we've
@@ -52,9 +49,8 @@ the steps of the project to get a positive result.
 > shown in the images. Connect other ends of the same wire to the dc
 > jack.
 
-![](a9f2e0decaf6421fa9dae9474a1fd5e3/media/image6.png)
 
-![](a9f2e0decaf6421fa9dae9474a1fd5e3/media/image7.png)
+
 
 > Step 6: Screw the three-pin socket to your custom-designed PVC sheet
 > Box & also connect the dc female jack.Solder dc jack wire to the Pcb.
