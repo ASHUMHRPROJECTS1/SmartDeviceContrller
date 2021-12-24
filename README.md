@@ -9,7 +9,7 @@ Controller\".
 
 
 By following this guide, you will be able to know and make your Smart
-Device Controller. This project guide contains the�les necessary to help
+Device Controller. This project guide contains the files necessary to help
 you step by step produce your own Smart Device Controller. Please follow
 the steps of the project to get a positive result.
 
