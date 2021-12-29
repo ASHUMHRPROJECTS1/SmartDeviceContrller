@@ -70,7 +70,7 @@ the steps of the project to get a positive result.
 
 
 
-New users will also get a $30 coupon while registering at [JLCPCB]((https://www.jlcpcb.com/IAT) via
+New users will also get some coupons while registering at [JLCPCB]((https://www.jlcpcb.com/IAT) via
 this blue link. Thank you for reading this guide, hopefully, this guide
 provides full steps to help you to create your own Smart Device
 Controller. If you have any questions please post them in the comment
